@@ -31,8 +31,6 @@ View extracted memories and generated responses
 
 Installation:
 1) Clone the repository
-git clone https://github.com/your-username/personalized-memory-assistant.git
-cd personalized-memory-assistant
 
 2) Create a Python environment
 a) Create a virtual environment 
@@ -49,4 +47,5 @@ Project Structure:
 ├── app.py                     
 ├── stream.py                   
 ├── requirements.txt
+
 └── README.md
