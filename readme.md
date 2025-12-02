@@ -18,8 +18,8 @@ Stable facts
 
 2) Two Response Modes:
 
-Without Personality – neutral and helpful
-With Personality – same content but stylized according to selected persona
+a) Without Personality – neutral and helpful
+b) With Personality – same content but stylized according to selected persona
 
 
 3) Clean Streamlit Interface
@@ -51,6 +51,7 @@ Project Structure:
 ├── requirements.txt
 
 └── README.md
+
 
 
 
