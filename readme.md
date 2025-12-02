@@ -44,10 +44,10 @@ b) Then open your browser at: http://localhost:8501
 
 Project Structure:
 
-.
-├── app.py                     
+.├── app.py                     
 ├── stream.py                   
 ├── requirements.txt
 
 └── README.md
+
 
