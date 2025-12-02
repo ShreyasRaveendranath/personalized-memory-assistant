@@ -19,6 +19,7 @@ Stable facts
 2) Two Response Modes:
 
 a) Without Personality – neutral and helpful
+
 b) With Personality – same content but stylized according to selected persona
 
 
@@ -51,6 +52,7 @@ Project Structure:
 ├── requirements.txt
 
 └── README.md
+
 
 
 
