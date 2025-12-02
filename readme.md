@@ -38,6 +38,7 @@ b) Activate it
 c) Then install the libraries using pip install -r requirements.tx
 
 Running the App:
+
 a) streamlit run stream.py
 b) Then open your browser at: http://localhost:8501
 
@@ -49,5 +50,6 @@ Project Structure:
 ├── requirements.txt
 
 └── README.md
+
 
 
